@@ -1,8 +1,8 @@
 {
-  "name": "esbuild-runner",
-  "version": "2.2.1",
+  "name": "esbuild-runner-plugins",
+  "version": "2.3.0-plugins.0",
   "description": "Super-fast on-the-fly transpilation of modern JS, TypeScript and JSX using esbuild",
-  "repository": "http://github.com/folke/esbuild-runner",
+  "repository": "http://github.com/bashmish/esbuild-runner",
   "main": "lib/index.js",
   "keywords": [
     "esbuild",

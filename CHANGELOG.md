@@ -1,3 +1,10 @@
+## [2.3.0-plugins.0](https://github.com/folke/esbuild-runner/compare/2.2.1...2.3.0-plugins.0) (2022-01-14)
+
+
+### Features
+
+* ✨ added support for esbuild plugins ([ad0255f](https://github.com/bashmish/esbuild-runner/commit/ad0255f51ff3cbc592f9171ff54e23cc5729f2e5))
+
 ### [2.2.1](https://github.com/folke/esbuild-runner/compare/2.2.0...2.2.1) (2021-08-30)
 
 ## [2.2.0](https://github.com/folke/esbuild-runner/compare/2.1.0...2.2.0) (2021-06-04)
